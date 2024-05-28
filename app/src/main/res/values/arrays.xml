@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_data_options">
+        <item>Temperature</item>
+        <item>Wind Speed</item>
+        <item>General State</item>
+        <item>Pressure</item>
+        <item>Humidity</item>
+    </string-array>
+</resources>
